@@ -22,8 +22,5 @@ This project showcases a Sales Performance Dashboard built in Excel to analyze:
 - `Sales_Performance_Dashboard.pdf` → Portable view.
 - `Sales_Performance_Dashboard.png` → Snapshot of the dashboard.
 
-## Preview
-![Dashboard Preview](Sales_Performance_Dashboard.png)
-
 ## Author
 Created by [Alluri Venkata Satwika] (/linkedin.com/in/satwikaalluri).
